@@ -1,4 +1,3 @@
-![image](https://github.com/Wool-ly/DEVCDPER/assets/78457967/88780792-2783-45e3-af07-796432c6622a)## DEVCDPER
 멘토링과 컨설팅을 할 수 있도록 매칭 서비스 제공하는 IT 경력 관리 프로그램
 
 ![image](https://github.com/Wool-ly/DEVCDPER/assets/78457967/af96c418-2d92-43f6-83fd-745374f090e4)
